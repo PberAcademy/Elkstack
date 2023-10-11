@@ -187,6 +187,11 @@ Test your logstash configuration with below command:
  ``` bash
 curl -L -O https://artifacts.elastic.co/downloads/beats/filebeat/filebeat-7.14.0-amd64.deb sudo dpkg -i filebeat-7.14.0-amd64.deb
 ```
+Install Filebeat package:
+
+``` bash
+         sudo apt install filebeat
+```
 
 Configure filebeat configuration file using #nano editor 
 
