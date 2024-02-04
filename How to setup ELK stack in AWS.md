@@ -190,7 +190,7 @@ curl -L -O https://artifacts.elastic.co/downloads/beats/filebeat/filebeat-7.14.0
 
 Configure filebeat configuration file using #nano editor 
 
-     Path : sudo nano /etc/kibana/kibana.yml
+     Path : sudo nano /etc/filebeat/filebeat.yml 
 
 ``` yml
 	Remove # tag before the line 
